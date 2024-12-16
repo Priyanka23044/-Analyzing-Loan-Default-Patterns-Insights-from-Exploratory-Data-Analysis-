@@ -45,7 +45,11 @@ Automating decision-making processes using the insights obtained.
 # Result
 
 -Identified key driver variables influencing default, such as loan tenure, credit history, and income stability.
+
 -Provided actionable recommendations that helped the company:
+
 -Minimize financial losses by optimizing loan approval criteria.
+
 -Improve customer retention by offering appropriate loan amounts to creditworthy applicants.
+
 -Laid the groundwork for future risk analytics efforts, enabling the company to deploy predictive models for real-time decision-making.
